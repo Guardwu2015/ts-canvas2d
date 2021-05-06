@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.tsx",
   "scripts": {
-    "webpack": "webpack",
+    "build": "webpack",
     "start": "webpack serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
